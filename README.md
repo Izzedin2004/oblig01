@@ -1,1 +1,2 @@
-# oblig01
+# oblig01 
+macOs sonoma 14.4
